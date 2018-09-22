@@ -1,0 +1,23 @@
+header{
+    background: url(../img/header-bg.jpg) center center no-repeat;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 135px 20px 90px 20px;
+}
+
+header h1{
+    font-size: 3.75em;
+    font-family: 'Raleway' sans-serif;
+    margin-bottom: 25px;
+}
+
+header h3{
+    font-size: 1.125em;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+header p{
+    font-size: 0.75em;
+}
